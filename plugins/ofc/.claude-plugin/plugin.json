@@ -1,0 +1,14 @@
+{
+  "name": "ofc",
+  "displayName": "Open Flashcard",
+  "description": "Author, validate, convert and review Open Flashcard Standard (.ofc.json) decks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Open Flashcard",
+    "url": "https://github.com/open-flashcard"
+  },
+  "homepage": "https://github.com/open-flashcard/schema",
+  "repository": "https://github.com/open-flashcard/skills",
+  "license": "Apache-2.0",
+  "keywords": ["flashcards", "spaced-repetition", "anki", "quizlet", "open-flashcard", "ofc", "study"]
+}

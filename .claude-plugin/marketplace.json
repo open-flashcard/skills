@@ -1,0 +1,17 @@
+{
+  "name": "open-flashcard",
+  "owner": {
+    "name": "Open Flashcard",
+    "url": "https://github.com/open-flashcard"
+  },
+  "description": "Agent skills for the Open Flashcard Standard: author, validate, convert and review flashcard decks.",
+  "plugins": [
+    {
+      "name": "ofc",
+      "source": "./plugins/ofc",
+      "description": "Author, validate, convert and review Open Flashcard Standard (.ofc.json) decks.",
+      "category": "productivity",
+      "keywords": ["flashcards", "spaced-repetition", "anki", "quizlet", "open-flashcard", "ofc", "study"]
+    }
+  ]
+}
